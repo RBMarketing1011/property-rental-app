@@ -1,3 +1,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  line-height: 1em;
+
+  /* Colors */
+  --color-neutral-100: #ffffff;
+  --color-neutral-900: #000000;
+
+  --color-primary-100: #ededed;
+  --color-primary-300: #00abf0;
+  --color-primary-500: #112e42;
+  --color-primary-700: #081b29;
+
+  --color-accent-100: #FFEBC2;
+  --color-accent-300: #FFBB33;
+  --color-accent-500: #E09600;
+  --color-accent-700: #523600;
+
+  color: var(--color-primary-100);
+  background-color: var(--color-primary-700);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-pacifico);
+}
+
+p, a, ul, ol {
+  font-family: var(--font-poppins)
+}
