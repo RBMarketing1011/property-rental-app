@@ -6,9 +6,6 @@
   line-height: 1em;
 
   /* Colors */
-  --color-neutral-100: #ffffff;
-  --color-neutral-900: #000000;
-
   --color-primary-100: #ededed;
   --color-primary-300: #00abf0;
   --color-primary-500: #112e42;
@@ -20,11 +17,15 @@
   --color-accent-700: #523600;
 
   color: var(--color-primary-100);
-  background-color: var(--color-primary-700);
+  background-color: var(--color-primary-500);
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-pacifico);
+}
+
+h4, h5, h6 {
+  letter-spacing: .1rem;
 }
 
 p, a, ul, ol {

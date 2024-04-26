@@ -1,3 +1,5 @@
+import Footer from '@components/Footer'
+import Navbar from '@components/Navbar'
 import '@styles/globals.css'
 import { Pacifico, Poppins } from 'next/font/google'
 
@@ -28,9 +30,11 @@ const Layout = ({ children }) =>
   return (
     <html lang='en-US' className={ `${ pacifico.variable } ${ poppins.variable }` }>
       <body>
-        <main>
+        <Navbar />
+        <main className='min-h-screen'>
           { children }
         </main>
+        <Footer />
       </body>
     </html>
   )
