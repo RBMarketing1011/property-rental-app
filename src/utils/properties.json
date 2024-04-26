@@ -1,6 +1,5 @@
 [
   {
-    "_id": "1",
     "owner": "1",
     "name": "Boston Commons Retreat",
     "type": "Apartment",
@@ -39,13 +38,16 @@
       "email": "john@gmail.com",
       "phone": "617-555-5555"
     },
-    "images": ["a1.jpg", "a2.jpg", "a3.jpg"],
+    "images": [
+      "a1.jpg",
+      "a2.jpg",
+      "a3.jpg"
+    ],
     "is_featured": false,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "_id": "2",
     "owner": "1",
     "name": "Cozy Downtown Loft",
     "type": "Apartment",
@@ -83,13 +85,16 @@
       "email": "jane@gmail.com",
       "phone": "212-555-5555"
     },
-    "images": ["b1.jpg", "b2.jpg", "b3.jpg"],
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
     "is_featured": false,
     "createdAt": "2024-01-02T00:00:00.000Z",
     "updatedAt": "2024-01-02T00:00:00.000Z"
   },
   {
-    "_id": "3",
     "owner": "2",
     "name": "Luxury Condo with a View",
     "type": "Condo",
@@ -129,13 +134,16 @@
       "email": "david@gmail.com",
       "phone": "213-555-5555"
     },
-    "images": ["c1.jpg", "c2.jpg", "c3.jpg"],
+    "images": [
+      "c1.jpg",
+      "c2.jpg",
+      "c3.jpg"
+    ],
     "is_featured": false,
     "createdAt": "2024-01-03T00:00:00.000Z",
     "updatedAt": "2024-01-03T00:00:00.000Z"
   },
   {
-    "_id": "4",
     "owner": "2",
     "name": "Charming Cottage Getaway",
     "type": "Cottage Or Cabin",
@@ -163,13 +171,16 @@
       "email": "emily@gmail.com",
       "phone": "512-555-5555"
     },
-    "images": ["d1.jpg", "d2.jpg", "d3.jpg"],
+    "images": [
+      "d1.jpg",
+      "d2.jpg",
+      "d3.jpg"
+    ],
     "is_featured": false,
     "createdAt": "2024-01-04T00:00:00.000Z",
     "updatedAt": "2024-01-04T00:00:00.000Z"
   },
   {
-    "_id": "5",
     "owner": "3",
     "name": "Modern Downtown Studio",
     "type": "Studio",
@@ -199,13 +210,16 @@
       "email": "michael@gmail.com",
       "phone": "312-555-5555"
     },
-    "images": ["e1.jpg", "e2.jpg", "e3.jpg"],
+    "images": [
+      "e1.jpg",
+      "e2.jpg",
+      "e3.jpg"
+    ],
     "is_featured": true,
     "createdAt": "2024-01-05T00:00:00.000Z",
     "updatedAt": "2024-01-05T00:00:00.000Z"
   },
   {
-    "_id": "6",
     "owner": "3",
     "name": "Seaside Retreat",
     "type": "House",
@@ -235,13 +249,16 @@
       "email": "sarah@gmail.com",
       "phone": "305-555-5555"
     },
-    "images": ["f1.jpg", "f2.jpg", "f3.jpg"],
+    "images": [
+      "f1.jpg",
+      "f2.jpg",
+      "f3.jpg"
+    ],
     "is_featured": true,
     "createdAt": "2024-01-06T00:00:00.000Z",
     "updatedAt": "2024-01-06T00:00:00.000Z"
   },
   {
-    "_id": "7",
     "owner": "4",
     "name": "Rustic Cabin in the Woods",
     "type": "Cottage Or Cabin",
@@ -270,13 +287,16 @@
       "email": "robert@gmail.com",
       "phone": "303-555-5555"
     },
-    "images": ["g1.jpg", "g2.jpg", "g3.jpg"],
+    "images": [
+      "g1.jpg",
+      "g2.jpg",
+      "g3.jpg"
+    ],
     "is_featured": false,
     "createdAt": "2024-01-07T00:00:00.000Z",
     "updatedAt": "2024-01-07T00:00:00.000Z"
   },
   {
-    "_id": "8",
     "owner": "5",
     "name": "Ski-In/Ski-Out Chalet",
     "type": "Chalet",
@@ -305,13 +325,16 @@
       "email": "jennifer@gmail.com",
       "phone": "970-555-5555"
     },
-    "images": ["h1.jpg", "h2.jpg", "h3.jpg"],
+    "images": [
+      "h1.jpg",
+      "h2.jpg",
+      "h3.jpg"
+    ],
     "is_featured": false,
     "createdAt": "2024-01-08T00:00:00.000Z",
     "updatedAt": "2024-01-08T00:00:00.000Z"
   },
   {
-    "_id": "9",
     "owner": "6",
     "name": "Mountain View Retreat",
     "type": "House",
@@ -341,13 +364,16 @@
       "email": "lisa@gmail.com",
       "phone": "303-555-5555"
     },
-    "images": ["i1.jpg", "i2.jpg", "i3.jpg"],
+    "images": [
+      "i1.jpg",
+      "i2.jpg",
+      "i3.jpg"
+    ],
     "is_featured": false,
     "createdAt": "2024-01-09T00:00:00.000Z",
     "updatedAt": "2024-01-09T00:00:00.000Z"
   },
   {
-    "_id": "10",
     "owner": "7",
     "name": "Historic Downtown Loft",
     "type": "Apartment",
@@ -376,9 +402,1243 @@
       "email": "matthew@gmail.com",
       "phone": "215-555-5555"
     },
-    "images": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "images": [
+      "j1.jpg",
+      "j2.jpg",
+      "j3.jpg"
+    ],
     "is_featured": false,
     "createdAt": "2024-01-10T00:00:00.000Z",
     "updatedAt": "2024-01-10T00:00:00.000Z"
+  },
+  {
+    "owner": "2",
+    "name": "Downtown Luxury Loft",
+    "type": "Condo",
+    "description": "Experience luxury living in this stunning downtown loft. With spacious rooms and modern amenities, it's the perfect retreat.",
+    "location": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zipcode": "10001"
+    },
+    "beds": 3,
+    "baths": 2,
+    "square_feet": 2000,
+    "amenities": [
+      "High-speed Internet",
+      "Designer Kitchen",
+      "Laundry Facilities",
+      "Valet Parking",
+      "Sauna",
+      "Surveillance System",
+      "Pet-friendly",
+      "Private Terrace",
+      "Jacuzzi",
+      "Yoga Studio",
+      "Central Heating",
+      "Rooftop Garden",
+      "Home Theater System",
+      "Espresso Machine"
+    ],
+    "rates": {
+      "weekly": 1500,
+      "monthly": 5500
+    },
+    "seller_info": {
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "212-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2024-02-15T00:00:00.000Z",
+    "updatedAt": "2024-02-15T00:00:00.000Z"
+  },
+  {
+    "owner": "3",
+    "name": "Seaside Villa",
+    "type": "House",
+    "description": "Escape to this stunning seaside villa and enjoy panoramic ocean views from your private terrace. Perfect for a relaxing getaway.",
+    "location": {
+      "street": "456 Ocean Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "90001"
+    },
+    "beds": 4,
+    "baths": 3,
+    "square_feet": 2500,
+    "amenities": [
+      "Private Beach Access",
+      "Infinity Pool",
+      "Gourmet Kitchen",
+      "Concierge Service",
+      "Tennis Court",
+      "Security Patrol",
+      "Outdoor Kitchen",
+      "Home Gym",
+      "Fire Pit",
+      "Gaming Room",
+      "Smart Home System",
+      "Wine Cellar",
+      "Beachfront Terrace",
+      "Juicer"
+    ],
+    "rates": {
+      "weekly": 2000,
+      "monthly": 7500
+    },
+    "seller_info": {
+      "name": "John Johnson",
+      "email": "john@example.com",
+      "phone": "310-555-6789"
+    },
+    "images": [
+      "c1.jpg",
+      "c2.jpg",
+      "c3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2024-03-01T00:00:00.000Z",
+    "updatedAt": "2024-03-01T00:00:00.000Z"
+  },
+  {
+    "owner": "4",
+    "name": "Mountain Retreat Cabin",
+    "type": "Cabin",
+    "description": "Find serenity in this cozy mountain cabin retreat. Surrounded by nature, it's the perfect escape from the hustle and bustle of city life.",
+    "location": {
+      "street": "789 Mountain View Drive",
+      "city": "Denver",
+      "state": "CO",
+      "zipcode": "80202"
+    },
+    "beds": 2,
+    "baths": 1,
+    "square_feet": 1200,
+    "amenities": [
+      "Fireplace",
+      "Deck with Views",
+      "Hiking Trails Nearby",
+      "Fully Equipped Kitchen",
+      "Outdoor Grill",
+      "Board Games",
+      "Porch Swing",
+      "Pet-friendly",
+      "DVD Player",
+      "WiFi",
+      "Coffee Maker",
+      "Books and Magazines"
+    ],
+    "rates": {
+      "weekly": 1000,
+      "monthly": 4000
+    },
+    "seller_info": {
+      "name": "Emily Brown",
+      "email": "emily@example.com",
+      "phone": "303-555-4567"
+    },
+    "images": [
+      "d1.jpg",
+      "d2.jpg",
+      "d3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2024-04-01T00:00:00.000Z",
+    "updatedAt": "2024-04-01T00:00:00.000Z"
+  },
+  {
+    "owner": "5",
+    "name": "Lakefront Cottage",
+    "type": "Cottage",
+    "description": "Relax and unwind at this charming lakefront cottage. Enjoy stunning views and cozy evenings by the fireplace.",
+    "location": {
+      "street": "101 Lakeview Lane",
+      "city": "Seattle",
+      "state": "WA",
+      "zipcode": "98101"
+    },
+    "beds": 2,
+    "baths": 1,
+    "square_feet": 1000,
+    "amenities": [
+      "Lake Access",
+      "Fireplace",
+      "Deck",
+      "Canoe/Kayak",
+      "Outdoor Grill",
+      "Board Games",
+      "DVD Player",
+      "WiFi",
+      "Coffee Maker",
+      "Books",
+      "Porch Swing",
+      "Garden",
+      "Fishing Gear"
+    ],
+    "rates": {
+      "weekly": 1200,
+      "monthly": 4500
+    },
+    "seller_info": {
+      "name": "David Wilson",
+      "email": "david@example.com",
+      "phone": "206-555-7890"
+    },
+    "images": [
+      "e1.jpg",
+      "e2.jpg",
+      "e3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2024-05-01T00:00:00.000Z",
+    "updatedAt": "2024-05-01T00:00:00.000Z"
+  },
+  {
+    "owner": "6",
+    "name": "Riverside Retreat",
+    "type": "House",
+    "description": "Experience tranquility at this riverside retreat. Enjoy fishing, kayaking, and breathtaking views right from your doorstep.",
+    "location": {
+      "street": "555 River Road",
+      "city": "Portland",
+      "state": "OR",
+      "zipcode": "97201"
+    },
+    "beds": 3,
+    "baths": 2,
+    "square_feet": 1800,
+    "amenities": [
+      "River Access",
+      "Deck",
+      "Fishing Gear",
+      "Kayaks",
+      "Outdoor Grill",
+      "Board Games",
+      "DVD Player",
+      "WiFi",
+      "Coffee Maker",
+      "Books",
+      "Porch Swing",
+      "Garden",
+      "Fire Pit"
+    ],
+    "rates": {
+      "weekly": 1300,
+      "monthly": 5000
+    },
+    "seller_info": {
+      "name": "Sarah Davis",
+      "email": "sarah@example.com",
+      "phone": "503-555-1234"
+    },
+    "images": [
+      "f1.jpg",
+      "f2.jpg",
+      "f3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2024-06-01T00:00:00.000Z",
+    "updatedAt": "2024-06-01T00:00:00.000Z"
+  },
+  {
+    "owner": "7",
+    "name": "Urban Loft Oasis",
+    "type": "Apartment",
+    "description": "Indulge in urban luxury at this spacious loft. With skyline views and modern amenities, it's the perfect city escape.",
+    "location": {
+      "street": "777 Loft Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zipcode": "60601"
+    },
+    "beds": 2,
+    "baths": 1,
+    "square_feet": 1600,
+    "amenities": [
+      "City Views",
+      "Open Floor Plan",
+      "Gourmet Kitchen",
+      "Fitness Center",
+      "Concierge Service",
+      "Business Center",
+      "Rooftop Terrace",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Bicycle Storage",
+      "Pet-friendly"
+    ],
+    "rates": {
+      "weekly": 1400,
+      "monthly": 5200
+    },
+    "seller_info": {
+      "name": "Michael Johnson",
+      "email": "michael@example.com",
+      "phone": "312-555-6789"
+    },
+    "images": [
+      "g1.jpg",
+      "g2.jpg",
+      "g3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2024-07-01T00:00:00.000Z",
+    "updatedAt": "2024-07-01T00:00:00.000Z"
+  },
+  {
+    "owner": "8",
+    "name": "Cozy Countryside Cottage",
+    "type": "Cottage",
+    "description": "Experience the charm of the countryside in this cozy cottage. Perfect for a peaceful retreat surrounded by nature.",
+    "location": {
+      "street": "321 Meadow Lane",
+      "city": "Nashville",
+      "state": "TN",
+      "zipcode": "37201"
+    },
+    "beds": 2,
+    "baths": 1,
+    "square_feet": 1000,
+    "amenities": [
+      "Fireplace",
+      "Deck",
+      "Outdoor Grill",
+      "Board Games",
+      "DVD Player",
+      "WiFi",
+      "Coffee Maker",
+      "Books",
+      "Porch Swing",
+      "Garden"
+    ],
+    "rates": {
+      "weekly": 1100,
+      "monthly": 4200
+    },
+    "seller_info": {
+      "name": "Jessica Adams",
+      "email": "jessica@example.com",
+      "phone": "615-555-1234"
+    },
+    "images": [
+      "h1.jpg",
+      "h2.jpg",
+      "h3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2024-08-01T00:00:00.000Z",
+    "updatedAt": "2024-08-01T00:00:00.000Z"
+  },
+  {
+    "owner": "9",
+    "name": "Modern Beachfront Condo",
+    "type": "Condo",
+    "description": "Enjoy luxury living at the beach in this modern condo. Wake up to stunning ocean views and relax by the pool.",
+    "location": {
+      "street": "888 Beachfront Drive",
+      "city": "Miami",
+      "state": "FL",
+      "zipcode": "33101"
+    },
+    "beds": 2,
+    "baths": 2,
+    "square_feet": 1800,
+    "amenities": [
+      "Beach Access",
+      "Ocean Views",
+      "Swimming Pool",
+      "Fitness Center",
+      "Gourmet Kitchen",
+      "Concierge Service",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Bicycle Storage",
+      "Pet-friendly"
+    ],
+    "rates": {
+      "weekly": 2000,
+      "monthly": 7500
+    },
+    "seller_info": {
+      "name": "Alexandra Lee",
+      "email": "alexandra@example.com",
+      "phone": "305-555-6789"
+    },
+    "images": [
+      "i1.jpg",
+      "i2.jpg",
+      "i3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2024-09-01T00:00:00.000Z",
+    "updatedAt": "2024-09-01T00:00:00.000Z"
+  },
+  {
+    "owner": "10",
+    "name": "Ski Chalet Retreat",
+    "type": "Chalet",
+    "description": "Escape to the mountains in this charming ski chalet. Perfect for winter adventures and cozy evenings by the fire.",
+    "location": {
+      "street": "456 Mountain View Road",
+      "city": "Aspen",
+      "state": "CO",
+      "zipcode": "81611"
+    },
+    "beds": 3,
+    "baths": 2,
+    "square_feet": 2000,
+    "amenities": [
+      "Ski-in/Ski-out Access",
+      "Fireplace",
+      "Deck with Views",
+      "Hot Tub",
+      "Fully Equipped Kitchen",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Ski Gear Storage"
+    ],
+    "rates": {
+      "weekly": 1800,
+      "monthly": 6800
+    },
+    "seller_info": {
+      "name": "Matthew Taylor",
+      "email": "matthew@example.com",
+      "phone": "970-555-1234"
+    },
+    "images": [
+      "j1.jpg",
+      "j2.jpg",
+      "j3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2024-10-01T00:00:00.000Z",
+    "updatedAt": "2024-10-01T00:00:00.000Z"
+  },
+  {
+    "owner": "11",
+    "name": "Historic Townhouse",
+    "type": "Townhouse",
+    "description": "Step back in time at this beautifully restored historic townhouse. Located in the heart of the city, it's a true gem.",
+    "location": {
+      "street": "789 Heritage Lane",
+      "city": "Charleston",
+      "state": "SC",
+      "zipcode": "29401"
+    },
+    "beds": 4,
+    "baths": 3,
+    "square_feet": 2200,
+    "amenities": [
+      "Antique Furnishings",
+      "Courtyard",
+      "Fireplace",
+      "Gourmet Kitchen",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Books",
+      "Board Games",
+      "Porch Swing",
+      "Garden",
+      "Pet-friendly"
+    ],
+    "rates": {
+      "weekly": 1600,
+      "monthly": 6000
+    },
+    "seller_info": {
+      "name": "Olivia Carter",
+      "email": "olivia@example.com",
+      "phone": "843-555-6789"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2024-11-01T00:00:00.000Z",
+    "updatedAt": "2024-11-01T00:00:00.000Z"
+  },
+  {
+    "owner": "12",
+    "name": "Lakeside Cabin",
+    "type": "Cabin",
+    "description": "Experience serenity at this lakeside cabin. Enjoy fishing, kayaking, and stunning sunsets right from your own dock.",
+    "location": {
+      "street": "101 Lakeview Drive",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zipcode": "55401"
+    },
+    "beds": 2,
+    "baths": 1,
+    "square_feet": 1200,
+    "amenities": [
+      "Lake Access",
+      "Fishing Gear",
+      "Kayaks",
+      "Canoe",
+      "Deck",
+      "Fire Pit",
+      "WiFi",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Porch Swing"
+    ],
+    "rates": {
+      "weekly": 1400,
+      "monthly": 5200
+    },
+    "seller_info": {
+      "name": "Noah Brown",
+      "email": "noah@example.com",
+      "phone": "612-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2024-12-01T00:00:00.000Z",
+    "updatedAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "owner": "13",
+    "name": "Urban Chic Apartment",
+    "type": "Apartment",
+    "description": "Live in style at this urban chic apartment. With sleek design and city views, it's the epitome of modern living.",
+    "location": {
+      "street": "999 City Center Avenue",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipcode": "94101"
+    },
+    "beds": 1,
+    "baths": 1,
+    "square_feet": 900,
+    "amenities": [
+      "City Views",
+      "Open Floor Plan",
+      "Gourmet Kitchen",
+      "Fitness Center",
+      "Rooftop Terrace",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Bicycle Storage",
+      "Pet-friendly"
+    ],
+    "rates": {
+      "weekly": 1200,
+      "monthly": 4500
+    },
+    "seller_info": {
+      "name": "Sophia Clark",
+      "email": "sophia@example.com",
+      "phone": "415-555-6789"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "updatedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "owner": "14",
+    "name": "Luxury Penthouse Suite",
+    "type": "Penthouse",
+    "description": "Indulge in luxury at this stunning penthouse suite. With panoramic city views and top-of-the-line amenities, it's a true gem.",
+    "location": {
+      "street": "123 Skyline Drive",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipcode": "89101"
+    },
+    "beds": 3,
+    "baths": 3,
+    "square_feet": 3000,
+    "amenities": [
+      "City Views",
+      "Private Elevator",
+      "Gourmet Kitchen",
+      "Home Theater System",
+      "Rooftop Terrace",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Jacuzzi",
+      "Wine Cellar",
+      "Fitness Center",
+      "Valet Parking"
+    ],
+    "rates": {
+      "weekly": 3000,
+      "monthly": 11000
+    },
+    "seller_info": {
+      "name": "Christopher Evans",
+      "email": "christopher@example.com",
+      "phone": "702-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2025-02-01T00:00:00.000Z",
+    "updatedAt": "2025-02-01T00:00:00.000Z"
+  },
+  {
+    "owner": "15",
+    "name": "Sunny Beach House",
+    "type": "House",
+    "description": "Enjoy the sun and sand at this beautiful beach house. With ocean views and beach access, it's the perfect seaside retreat.",
+    "location": {
+      "street": "456 Beachfront Boulevard",
+      "city": "Santa Monica",
+      "state": "CA",
+      "zipcode": "90401"
+    },
+    "beds": 4,
+    "baths": 3,
+    "square_feet": 2500,
+    "amenities": [
+      "Beach Access",
+      "Ocean Views",
+      "Private Pool",
+      "Outdoor Grill",
+      "Deck",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Porch Swing"
+    ],
+    "rates": {
+      "weekly": 2800,
+      "monthly": 10500
+    },
+    "seller_info": {
+      "name": "Emily White",
+      "email": "emily@example.com",
+      "phone": "310-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2025-03-01T00:00:00.000Z",
+    "updatedAt": "2025-03-01T00:00:00.000Z"
+  },
+  {
+    "owner": "16",
+    "name": "Rustic Farmhouse",
+    "type": "Farmhouse",
+    "description": "Experience country living at its finest in this charming rustic farmhouse. Surrounded by fields and fresh air, it's a true escape.",
+    "location": {
+      "street": "789 Farm Road",
+      "city": "Austin",
+      "state": "TX",
+      "zipcode": "78701"
+    },
+    "beds": 3,
+    "baths": 2,
+    "square_feet": 1800,
+    "amenities": [
+      "Wrap-around Porch",
+      "Garden",
+      "Fire Pit",
+      "BBQ Grill",
+      "WiFi",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Porch Swing",
+      "Pet-friendly"
+    ],
+    "rates": {
+      "weekly": 1500,
+      "monthly": 5500
+    },
+    "seller_info": {
+      "name": "Daniel Johnson",
+      "email": "daniel@example.com",
+      "phone": "512-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2025-04-01T00:00:00.000Z",
+    "updatedAt": "2025-04-01T00:00:00.000Z"
+  },
+  {
+    "owner": "17",
+    "name": "Mountain View Chalet",
+    "type": "Chalet",
+    "description": "Embrace the beauty of the mountains in this stunning chalet. With panoramic views and cozy interiors, it's the perfect alpine getaway.",
+    "location": {
+      "street": "123 Mountainview Road",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zipcode": "84101"
+    },
+    "beds": 4,
+    "baths": 3,
+    "square_feet": 2200,
+    "amenities": [
+      "Mountain Views",
+      "Ski Access",
+      "Hot Tub",
+      "Fireplace",
+      "Deck",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Ski Gear Storage"
+    ],
+    "rates": {
+      "weekly": 2000,
+      "monthly": 7500
+    },
+    "seller_info": {
+      "name": "Ethan Brown",
+      "email": "ethan@example.com",
+      "phone": "801-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2025-05-01T00:00:00.000Z",
+    "updatedAt": "2025-05-01T00:00:00.000Z"
+  },
+  {
+    "owner": "18",
+    "name": "Lakefront Retreat",
+    "type": "House",
+    "description": "Relax by the lake at this beautiful retreat. With serene views and modern comforts, it's the perfect place to unwind.",
+    "location": {
+      "street": "101 Lakeside Drive",
+      "city": "Orlando",
+      "state": "FL",
+      "zipcode": "32801"
+    },
+    "beds": 3,
+    "baths": 2,
+    "square_feet": 2000,
+    "amenities": [
+      "Lakefront Views",
+      "Boat Dock",
+      "Deck",
+      "Hot Tub",
+      "Fire Pit",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Porch Swing"
+    ],
+    "rates": {
+      "weekly": 1800,
+      "monthly": 6800
+    },
+    "seller_info": {
+      "name": "Isabella Garcia",
+      "email": "isabella@example.com",
+      "phone": "407-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "owner": "19",
+    "name": "Historic Brownstone",
+    "type": "Brownstone",
+    "description": "Live in history at this beautifully restored brownstone. With original details and modern amenities, it's a true gem.",
+    "location": {
+      "street": "789 Heritage Lane",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zipcode": "11201"
+    },
+    "beds": 4,
+    "baths": 3,
+    "square_feet": 2400,
+    "amenities": [
+      "Historic Architecture",
+      "Gourmet Kitchen",
+      "Fireplace",
+      "Private Garden",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Books",
+      "Board Games",
+      "Porch Swing",
+      "Pet-friendly"
+    ],
+    "rates": {
+      "weekly": 2000,
+      "monthly": 7500
+    },
+    "seller_info": {
+      "name": "Aiden Martinez",
+      "email": "aiden@example.com",
+      "phone": "718-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2025-07-01T00:00:00.000Z",
+    "updatedAt": "2025-07-01T00:00:00.000Z"
+  },
+  {
+    "owner": "20",
+    "name": "Ski-In/Ski-Out Condo",
+    "type": "Condo",
+    "description": "Hit the slopes from this convenient ski-in/ski-out condo. With easy access to the mountain, it's perfect for winter sports enthusiasts.",
+    "location": {
+      "street": "456 Ski Slope Road",
+      "city": "Breckenridge",
+      "state": "CO",
+      "zipcode": "80424"
+    },
+    "beds": 2,
+    "baths": 2,
+    "square_feet": 1500,
+    "amenities": [
+      "Ski-In/Ski-Out Access",
+      "Fireplace",
+      "Mountain Views",
+      "Hot Tub",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Ski Gear Storage"
+    ],
+    "rates": {
+      "weekly": 1600,
+      "monthly": 6000
+    },
+    "seller_info": {
+      "name": "Chloe Wilson",
+      "email": "chloe@example.com",
+      "phone": "970-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2025-08-01T00:00:00.000Z",
+    "updatedAt": "2025-08-01T00:00:00.000Z"
+  },
+  {
+    "owner": "21",
+    "name": "City Center Loft",
+    "type": "Loft",
+    "description": "Live in the heart of the city in this stylish loft. With exposed brick and modern finishes, it's urban living at its best.",
+    "location": {
+      "street": "123 City Center Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zipcode": "80202"
+    },
+    "beds": 1,
+    "baths": 1,
+    "square_feet": 1000,
+    "amenities": [
+      "City Views",
+      "Open Floor Plan",
+      "Gourmet Kitchen",
+      "Fitness Center",
+      "Rooftop Terrace",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Bicycle Storage",
+      "Pet-friendly"
+    ],
+    "rates": {
+      "weekly": 1200,
+      "monthly": 4500
+    },
+    "seller_info": {
+      "name": "Ella Thompson",
+      "email": "ella@example.com",
+      "phone": "303-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2025-09-01T00:00:00.000Z",
+    "updatedAt": "2025-09-01T00:00:00.000Z"
+  },
+  {
+    "owner": "22",
+    "name": "Modern Skyline Apartment",
+    "type": "Apartment",
+    "description": "Live in luxury with breathtaking skyline views in this modern apartment. With high-end amenities, it's city living at its finest.",
+    "location": {
+      "street": "789 Skyline Drive",
+      "city": "Seattle",
+      "state": "WA",
+      "zipcode": "98101"
+    },
+    "beds": 2,
+    "baths": 2,
+    "square_feet": 1600,
+    "amenities": [
+      "City Views",
+      "Floor-to-ceiling Windows",
+      "Gourmet Kitchen",
+      "Fitness Center",
+      "Rooftop Terrace",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Bicycle Storage",
+      "Pet-friendly"
+    ],
+    "rates": {
+      "weekly": 1400,
+      "monthly": 5200
+    },
+    "seller_info": {
+      "name": "Mia Garcia",
+      "email": "mia@example.com",
+      "phone": "206-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2025-10-01T00:00:00.000Z",
+    "updatedAt": "2025-10-01T00:00:00.000Z"
+  },
+  {
+    "owner": "23",
+    "name": "Tranquil Lakeside Cottage",
+    "type": "Cottage",
+    "description": "Escape to tranquility in this charming lakeside cottage. With serene views and modern comforts, it's the perfect retreat.",
+    "location": {
+      "street": "101 Lakeshore Lane",
+      "city": "Portland",
+      "state": "OR",
+      "zipcode": "97201"
+    },
+    "beds": 2,
+    "baths": 1,
+    "square_feet": 1200,
+    "amenities": [
+      "Lakefront Views",
+      "Boat Dock",
+      "Deck",
+      "Fire Pit",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Porch Swing"
+    ],
+    "rates": {
+      "weekly": 1300,
+      "monthly": 5000
+    },
+    "seller_info": {
+      "name": "Liam Martinez",
+      "email": "liam@example.com",
+      "phone": "503-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2025-11-01T00:00:00.000Z",
+    "updatedAt": "2025-11-01T00:00:00.000Z"
+  },
+  {
+    "owner": "24",
+    "name": "Luxury Oceanfront Villa",
+    "type": "Villa",
+    "description": "Experience luxury living at this breathtaking oceanfront villa. With private beach access and stunning views, it's paradise found.",
+    "location": {
+      "street": "123 Oceanfront Road",
+      "city": "Miami",
+      "state": "FL",
+      "zipcode": "33101"
+    },
+    "beds": 5,
+    "baths": 5,
+    "square_feet": 5000,
+    "amenities": [
+      "Oceanfront Views",
+      "Private Beach Access",
+      "Infinity Pool",
+      "Hot Tub",
+      "Gourmet Kitchen",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Bicycle Storage",
+      "Pet-friendly"
+    ],
+    "rates": {
+      "weekly": 5000,
+      "monthly": 18000
+    },
+    "seller_info": {
+      "name": "Noah Thompson",
+      "email": "noah@example.com",
+      "phone": "305-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2025-12-01T00:00:00.000Z",
+    "updatedAt": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "owner": "25",
+    "name": "Secluded Mountain Cabin",
+    "type": "Cabin",
+    "description": "Escape to the mountains in this secluded cabin. With panoramic views and modern amenities, it's the perfect mountain retreat.",
+    "location": {
+      "street": "101 Mountainview Road",
+      "city": "Denver",
+      "state": "CO",
+      "zipcode": "80202"
+    },
+    "beds": 2,
+    "baths": 1,
+    "square_feet": 1500,
+    "amenities": [
+      "Mountain Views",
+      "Fireplace",
+      "Hot Tub",
+      "Deck",
+      "WiFi",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Porch Swing"
+    ],
+    "rates": {
+      "weekly": 1400,
+      "monthly": 5200
+    },
+    "seller_info": {
+      "name": "Emma Wilson",
+      "email": "emma@example.com",
+      "phone": "303-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "owner": "26",
+    "name": "Urban Industrial Loft",
+    "type": "Loft",
+    "description": "Live in style in this urban industrial loft. With exposed brick and modern finishes, it's the perfect blend of raw and refined.",
+    "location": {
+      "street": "456 Industrial Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "90001"
+    },
+    "beds": 2,
+    "baths": 2,
+    "square_feet": 1600,
+    "amenities": [
+      "City Views",
+      "Exposed Brick",
+      "Open Floor Plan",
+      "Gourmet Kitchen",
+      "Fitness Center",
+      "Rooftop Terrace",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Bicycle Storage",
+      "Pet-friendly"
+    ],
+    "rates": {
+      "weekly": 1500,
+      "monthly": 5500
+    },
+    "seller_info": {
+      "name": "Logan Adams",
+      "email": "logan@example.com",
+      "phone": "213-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2026-02-01T00:00:00.000Z",
+    "updatedAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "owner": "27",
+    "name": "Luxury Lakeside Lodge",
+    "type": "Lodge",
+    "description": "Experience luxury living at this lakeside lodge. With stunning views and top-of-the-line amenities, it's a true escape.",
+    "location": {
+      "street": "101 Lakeside Drive",
+      "city": "Seattle",
+      "state": "WA",
+      "zipcode": "98101"
+    },
+    "beds": 4,
+    "baths": 3,
+    "square_feet": 2500,
+    "amenities": [
+      "Lakefront Views",
+      "Private Dock",
+      "Hot Tub",
+      "Fire Pit",
+      "Gourmet Kitchen",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Porch Swing"
+    ],
+    "rates": {
+      "weekly": 2200,
+      "monthly": 8500
+    },
+    "seller_info": {
+      "name": "Luna Martinez",
+      "email": "luna@example.com",
+      "phone": "206-555-1234"
+    },
+    "images": [
+      "a1.jpg",
+      "a2.jpg",
+      "a3.jpg"
+    ],
+    "is_featured": false,
+    "createdAt": "2026-03-01T00:00:00.000Z",
+    "updatedAt": "2026-03-01T00:00:00.000Z"
+  },
+  {
+    "owner": "28",
+    "name": "Coastal Retreat",
+    "type": "House",
+    "description": "Escape to the coast in this beautiful retreat. With ocean views and beach access, it's the perfect seaside getaway.",
+    "location": {
+      "street": "456 Coastal Boulevard",
+      "city": "San Diego",
+      "state": "CA",
+      "zipcode": "92101"
+    },
+    "beds": 3,
+    "baths": 2,
+    "square_feet": 2000,
+    "amenities": [
+      "Ocean Views",
+      "Beach Access",
+      "Private Pool",
+      "Outdoor Grill",
+      "Deck",
+      "WiFi",
+      "Smart TV",
+      "Coffee Maker",
+      "Board Games",
+      "Books",
+      "DVD Player",
+      "Porch Swing"
+    ],
+    "rates": {
+      "weekly": 2500,
+      "monthly": 9500
+    },
+    "seller_info": {
+      "name": "Mason Clark",
+      "email": "mason@example.com",
+      "phone": "619-555-1234"
+    },
+    "images": [
+      "b1.jpg",
+      "b2.jpg",
+      "b3.jpg"
+    ],
+    "is_featured": true,
+    "createdAt": "2026-04-01T00:00:00.000Z",
+    "updatedAt": "2026-04-01T00:00:00.000Z"
   }
 ]

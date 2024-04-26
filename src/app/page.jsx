@@ -2,8 +2,11 @@ import Hero from '@components/Hero'
 import HomeInfoBoxes from '@components/HomeInfoBoxes'
 import HomePageProperties from '@components/HomePageProperties'
 
-const Home = () =>
+import connectDB from '@config/connectDB'
+
+const Home = async () =>
 {
+  await connectDB()
   return (
     <main>
       <Hero />
